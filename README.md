@@ -4,4 +4,5 @@ The goal of this Google Colab is to collect Pneumonia images from different data
 
 The databases used were:
 > [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+> 
 > [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
